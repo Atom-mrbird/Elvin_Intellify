@@ -144,7 +144,7 @@ CELERY_BROKER_URL = 'http://127.0.0.1:8000/'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'outlook.office365.com'
 EMAIL_HOST_USER = 'ataberkyakar@outlook.com'
-EMAIL_HOST_PASSWORD = 'ATABERKy'
+EMAIL_HOST_PASSWORD = '*******'
 EMAIL_PORT = 993
 EMAIL_USE_SSL = True
 # Default primary key field type
